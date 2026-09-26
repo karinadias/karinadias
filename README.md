@@ -1,16 +1,21 @@
 <div align="center">
 
-# ✦ Karínná Dias
+# ✨🔮 Karínná Dias 🔮✨
 
-### UX Designer em formação · UI/UX · Front-end
+### 🎨 UX Designer em formação · UI/UX · Front-end
 
 <p>
   <img src="https://img.shields.io/badge/UX%20Design-B03A4A?style=for-the-badge&logo=figma&logoColor=FFF8F0" alt="UX Design" />
-  <img src="https://img.shields.io/badge/Research-7A2636?style=for-the-badge&logo=googlescholar&logoColor=FFF8F0" alt="Research" />
-  <img src="https://img.shields.io/badge/Front--end-4A1723?style=for-the-badge&logo=code&logoColor=FFF8F0" alt="Front-end" />
+  <img src="https://img.shields.io/badge/Research-9B2743?style=for-the-badge&logo=googlescholar&logoColor=FFF8F0" alt="Research" />
+  <img src="https://img.shields.io/badge/Front--end-5A2444?style=for-the-badge&logo=code&logoColor=FFF8F0" alt="Front-end" />
+  <img src="https://img.shields.io/badge/Creative%20chaos-3B2E5A?style=for-the-badge&logo=wandb&logoColor=FFF8F0" alt="Creative chaos" />
 </p>
 
-> **Interfaces podem ser bonitas. Experiências precisam ser compreendidas.**
+### ✦ Wanda mode: **ON** ✦
+
+> **Eu não altero a realidade — só transformo problemas confusos em experiências mais claras.**
+
+🌹 vermelho para a coragem · 💜 roxo para a imaginação · 💙 azul para a curiosidade · 💗 rosa para o detalhe
 
 </div>
 
