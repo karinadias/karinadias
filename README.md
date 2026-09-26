@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/karinadias/karinadias/main/smoke-banner.svg" alt="Fumaça vermelha animada" />
+<img src="https://raw.githubusercontent.com/karinadias/karinadias/main/smoke-banner-organic.svg" alt="Banner orgânico com fumaça vermelha e partículas" />
 
 ### UX DESIGN // UI // FRONT-END
 
