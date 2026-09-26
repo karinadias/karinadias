@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/karinadias/karinadias/main/codex-clipboard-3fb221b8-416a-408e-baef-ce863ff56104.png" alt="Banner tech marsala com lua, órbitas, partículas e fumaça" />
+<img src="https://raw.githubusercontent.com/karinadias/karinadias/main/animated-banner.svg" alt="Banner animado tech marsala com lua, órbitas, partículas e fumaça" />
 
 ### UX DESIGN // UI // FRONT-END
 
@@ -32,7 +32,7 @@ Eu transformo problemas nebulosos em caminhos mais simples: observo, pergunto, o
 
 ## // TOOLKIT
 
-<p>Figma · UX Research · HTML5 · CSS3 · JavaScript · Git</p>
+Figma · UX Research · HTML5 · CSS3 · JavaScript · Git
 
 ## // O QUE ME MOVE
 
