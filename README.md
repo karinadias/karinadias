@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:1A0B12,35:4A1723,70:8F2D56,100:241332&text=KARÍNNÁ%20DIAS&fontColor=FFF8F0&fontSize=52&fontAlignY=45&desc=UX%20DESIGN%20%2F%2F%20UI%20%2F%2F%20FRONT-END&descAlignY=68&descSize=16&animation=twinkling" alt="Banner Karínná Dias" />
+<img src="https://raw.githubusercontent.com/karinadias/karinadias/main/smoke-banner.svg" alt="Fumaça vermelha animada" />
 
 ### UX DESIGN // UI // FRONT-END
 
