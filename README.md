@@ -1,74 +1,62 @@
 <div align="center">
 
-# ✨🔮 Karínná Dias 🔮✨
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:1A0B12,35:4A1723,70:8F2D56,100:241332&text=KARÍNNÁ%20DIAS&fontColor=FFF8F0&fontSize=52&fontAlignY=45&desc=UX%20DESIGN%20%2F%2F%20UI%20%2F%2F%20FRONT-END&descAlignY=68&descSize=16&animation=twinkling" alt="Banner Karínná Dias" />
 
-### 🎨 UX Designer em formação · UI/UX · Front-end
+### UX DESIGN // UI // FRONT-END
 
-<p>
-  <img src="https://img.shields.io/badge/UX%20Design-B03A4A?style=for-the-badge&logo=figma&logoColor=FFF8F0" alt="UX Design" />
-  <img src="https://img.shields.io/badge/Research-9B2743?style=for-the-badge&logo=googlescholar&logoColor=FFF8F0" alt="Research" />
-  <img src="https://img.shields.io/badge/Front--end-5A2444?style=for-the-badge&logo=code&logoColor=FFF8F0" alt="Front-end" />
-  <img src="https://img.shields.io/badge/Creative%20chaos-3B2E5A?style=for-the-badge&logo=wandb&logoColor=FFF8F0" alt="Creative chaos" />
-</p>
+**interfaces com intenção, pesquisa com curiosidade e um toque de caos criativo.**
 
-### ✦ Wanda mode: **ON** ✦
-
-> **Eu não altero a realidade — só transformo problemas confusos em experiências mais claras.**
-
-🌹 vermelho para a coragem · 💜 roxo para a imaginação · 💙 azul para a curiosidade · 💗 rosa para o detalhe
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-B03A4A?style=for-the-badge&logo=linkedin&logoColor=FFF8F0)](https://www.linkedin.com/in/karinadiastech/)
+[![GitHub](https://img.shields.io/badge/GITHUB-241332?style=for-the-badge&logo=github&logoColor=FFF8F0)](https://github.com/karinadias)
 
 </div>
 
 ---
 
-## Olá, eu sou a Karínná 👋
+## // SOBRE MIM
 
-Sou estudante de **Front-end e UI/UX Design**, em Campinas — SP. Meu ponto de partida é a curiosidade: entender pessoas, contextos e necessidades antes de desenhar qualquer tela.
+Oi! Eu sou a **Karínná**, estudante de **UX/UI Design e Front-end**, em Campinas — SP.
 
-Acredito que um bom produto digital nasce quando **clareza, acessibilidade e intenção** encontram uma interface que respeita o tempo de quem usa.
+Eu gosto de transformar problemas nebulosos em caminhos mais simples: observo, faço perguntas, organizo ideias, prototipo, testo e volto para a prancheta quando a experiência pede.
 
-## Meu jeito de fazer UX
+> **Meu superpoder não é adivinhar o que o usuário quer. É investigar antes de desenhar.**
 
-**Escutar → Investigar → Sintetizar → Prototipar → Testar → Aprender**
+## // MEU SISTEMA DE UX
 
-Não desenho para preencher espaços. Desenho para reduzir dúvidas, criar confiança e tornar cada interação mais natural.
+| etapa | o que acontece |
+|---|---|
+| 01 descoberta | contexto, perguntas, dores e comportamentos |
+| 02 estratégia | jornadas, fluxos, arquitetura e prioridades |
+| 03 interface | wireframes, protótipos e decisões visuais |
+| 04 validação | testes, feedback e iteração |
+| 05 entrega | documentação, handoff e front-end |
 
-### No processo, eu gosto de explorar
-
-- 🔎 **Descoberta:** perguntas, contexto, dores e comportamentos
-- 🧭 **Estratégia:** jornadas, fluxos, arquitetura da informação e prioridades
-- ✍️ **Interface:** wireframes, protótipos e decisões visuais com propósito
-- 🧪 **Validação:** testes, feedback e iteração sem apego à primeira ideia
-- ♿ **Acessibilidade:** experiências inclusivas desde o início
-- 💻 **Front-end:** transformando decisões de design em experiências reais
-
-## O que estou construindo
-
-Atualmente, estou desenvolvendo meu repertório em **UX Research, Product Design, UI Design e Front-end**, conectando o raciocínio de produto com a prática de criar interfaces funcionais e humanas.
-
-Cada projeto aqui representa uma pergunta, uma hipótese ou uma nova forma de enxergar a experiência de alguém.
-
-## Ferramentas & tecnologias
+## // TOOLKIT
 
 <p>
-  <img src="https://img.shields.io/badge/Figma-B03A4A?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/HTML5-7A2636?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-4A1723?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-B03A4A?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-7A2636?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/FIGMA-B03A4A?style=for-the-badge&logo=figma&logoColor=FFF8F0" alt="Figma" />
+  <img src="https://img.shields.io/badge/UX%20RESEARCH-7A2636?style=for-the-badge&logo=googlescholar&logoColor=FFF8F0" alt="UX Research" />
+  <img src="https://img.shields.io/badge/HTML5-8F2D56?style=for-the-badge&logo=html5&logoColor=FFF8F0" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-5A2444?style=for-the-badge&logo=css3&logoColor=FFF8F0" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-3B2E5A?style=for-the-badge&logo=javascript&logoColor=FFF8F0" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/GIT-241332?style=for-the-badge&logo=git&logoColor=FFF8F0" alt="Git" />
 </p>
 
-## Vamos conversar?
+## // O QUE ME MOVE
 
-Estou aberta a trocar ideias sobre **UX, interfaces, acessibilidade, processos de design e oportunidades para aprender construindo**.
+- ✦ acessibilidade desde o primeiro rabisco
+- ✦ interfaces bonitas, mas principalmente compreensíveis
+- ✦ tecnologia como meio para criar experiências melhores
+- ✦ aprender construindo — e construir ouvindo
 
-<p>
-  <a href="https://www.linkedin.com/in/karinadiastech/">LinkedIn</a> ·
-  <a href="https://github.com/karinadias">GitHub</a>
-</p>
+## // STATUS
+
+**disponível para aprender, colaborar e criar produtos digitais mais humanos.**
 
 <div align="center">
 
-<sub>Feito com curiosidade, intenção e um toque de marsala · Campinas, SP</sub>
+[ CAMPINAS, SP ] · [ DESIGNING WITH EMPATHY ] · [ MARSALA ENERGY ]
+
+<sub>feito com pesquisa, pixels e um pouco de magia visual.</sub>
 
 </div>
