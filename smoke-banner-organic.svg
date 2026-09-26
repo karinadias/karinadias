@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 360" role="img" aria-label="Karínná Dias com fumaça vermelha orgânica e partículas">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#6f1528" stop-opacity="0"/>
+      <stop offset=".28" stop-color="#b03a4a" stop-opacity=".85"/>
+      <stop offset=".52" stop-color="#f1a0a5" stop-opacity=".45"/>
+      <stop offset=".78" stop-color="#8f2d56" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#6f1528" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="9"/></filter>
+    <filter id="glow"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <text x="800" y="92" text-anchor="middle" fill="#fff8f0" font-family="monospace" font-size="42" letter-spacing="11" font-weight="700">KARÍNNÁ DIAS</text>
+  <text x="800" y="126" text-anchor="middle" fill="#d98b95" font-family="monospace" font-size="13" letter-spacing="5">UX DESIGN // UI // FRONT-END</text>
+  <path d="M0 230 C170 165 235 280 420 230 S715 188 870 245 S1160 292 1600 190" fill="none" stroke="#8f2d56" stroke-opacity=".18" stroke-width="34" filter="url(#soft)">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 230 C170 165 235 280 420 230 S715 188 870 245 S1160 292 1600 190;M0 210 C150 280 285 165 455 235 S720 290 900 210 S1210 180 1600 235;M0 230 C170 165 235 280 420 230 S715 188 870 245 S1160 292 1600 190"/>
+  </path>
+  <path d="M0 230 C170 165 235 280 420 230 S715 188 870 245 S1160 292 1600 190" fill="none" stroke="url(#line)" stroke-width="4" stroke-linecap="round">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" values="M0 230 C170 165 235 280 420 230 S715 188 870 245 S1160 292 1600 190;M0 210 C150 280 285 165 455 235 S720 290 900 210 S1210 180 1600 235;M0 230 C170 165 235 280 420 230 S715 188 870 245 S1160 292 1600 190"/>
+  </path>
+  <g fill="#ef9ba4" filter="url(#glow)">
+    <circle cx="180" cy="205" r="2"/><circle cx="335" cy="276" r="1.5"/><circle cx="540" cy="190" r="2"/><circle cx="1080" cy="282" r="1.5"/><circle cx="1320" cy="214" r="2"/><circle cx="1460" cy="174" r="1.5"/>
+  </g>
+  <g fill="#fff8f0" opacity=".8">
+    <circle cx="250" cy="154" r="1"/><circle cx="610" cy="156" r="1"/><circle cx="970" cy="166" r="1"/><circle cx="1250" cy="140" r="1"/>
+  </g>
+</svg>
