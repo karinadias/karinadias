@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/karinadias/karinadias/main/animated-banner.svg" alt="Banner animado tech marsala com lua, órbitas, partículas e fumaça" />
+<img src="https://raw.githubusercontent.com/karinadias/karinadias/main/header-waves.svg" alt="Header cósmico animado com ondas, partículas e lua" />
 
 ### UX DESIGN // UI // FRONT-END
 
