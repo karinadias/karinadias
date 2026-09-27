@@ -6,7 +6,7 @@
 
 Pesquisa · Jornadas · Prototipagem · Usabilidade
 
-[LinkedIn](https://www.linkedin.com/in/karinadiastech/) · [Vamos trocar ideias?](https://github.com/karinadias)
+[LinkedIn](https://www.linkedin.com/in/karinnadias/) · [Vamos trocar ideias?](https://github.com/karinadias)
 
 </div>
 
