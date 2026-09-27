@@ -1,48 +1,60 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/karinadias/karinadias/main/header-waves.svg" alt="Header cósmico animado com ondas, partículas e lua" />
+<img src="./header.svg" width="100%" alt="Karínná Dias — UX Design. Banner cósmico com ondas, partículas e órbitas animadas em marsala." />
 
-### UX DESIGN // UI // FRONT-END
+**Um pouco de magia no visual. Muita intenção na experiência.**
 
-**interfaces com intenção, pesquisa com curiosidade e um toque de caos criativo.**
+Pesquisa · Jornadas · Prototipagem · Usabilidade
 
-[LinkedIn](https://www.linkedin.com/in/karinadiastech/) · [GitHub](https://github.com/karinadias)
+[LinkedIn](https://www.linkedin.com/in/karinadiastech/) · [Vamos trocar ideias?](https://github.com/karinadias)
 
 </div>
 
 ---
 
-## // SOBRE MIM
+## ✦ Por trás da interface
 
-Oi! Eu sou a **Karínná**, estudante de **UX/UI Design e Front-end**, em Campinas — SP.
+Oi, eu sou a **Karínná Dias**! Estou construindo minha trajetória em **UX/UI Design**, com curiosidade para entender pessoas e criatividade para explorar possibilidades.
 
-Eu transformo problemas nebulosos em caminhos mais simples: observo, pergunto, organizo, prototipo, testo e itero.
+Gosto de pensar no design como uma tradução: transformar dúvidas, necessidades e caminhos confusos em experiências que façam sentido para quem usa.
 
-> **Meu superpoder não é adivinhar o que o usuário quer. É investigar antes de desenhar.**
+Por aqui, compartilho minha jornada de aprendizado — entre perguntas, rascunhos, protótipos e novas versões.
 
-## // MEU SISTEMA DE UX
+> Meu superpoder não é adivinhar o que as pessoas querem. É começar pela pergunta certa.
 
-| etapa | o que acontece |
-|---|---|
-| descoberta | contexto, perguntas, dores e comportamentos |
-| estratégia | jornadas, fluxos e prioridades |
-| interface | wireframes, protótipos e decisões visuais |
-| validação | testes, feedback e iteração |
-| entrega | documentação, handoff e front-end |
+## ◌ Meu universo de UX
 
-## // TOOLKIT
+| Antes de desenhar… | Durante a exploração… | Depois do primeiro protótipo… |
+| :--- | :--- | :--- |
+| Entender pessoas e contexto | Organizar jornadas e fluxos | Ouvir feedback e testar hipóteses |
+| Investigar necessidades | Explorar wireframes e interações | Revisitar decisões e iterar |
+| Questionar suposições | Pensar em clareza e acessibilidade | Documentar o que foi aprendido |
 
-Figma · UX Research · HTML5 · CSS3 · JavaScript · Git
+## ⌁ No meu radar de estudos
 
-## // O QUE ME MOVE
+**UX Research** — observar, perguntar e sintetizar descobertas.  
+**Arquitetura da informação** — dar sentido à organização e à navegação.  
+**Design de interação** — conectar intenção, ação e resposta.  
+**Prototipagem no Figma** — tornar ideias exploráveis.  
+**Usabilidade e acessibilidade** — projetar para diferentes pessoas e contextos.
 
-- ✦ acessibilidade desde o primeiro rabisco
-- ✦ interfaces bonitas e compreensíveis
-- ✦ tecnologia para criar experiências melhores
-- ✦ aprender construindo e ouvindo
+## ✧ O que guia minhas escolhas
 
-## // STATUS
+- **Pessoas antes de pixels.** A interface começa muito antes da tela.
+- **Clareza também é beleza.** O visual precisa ajudar, não disputar atenção.
+- **Acessibilidade desde o início.** Não como detalhe da última versão.
+- **Curiosidade sem ego.** Uma boa descoberta pode mudar toda a ideia.
 
-**disponível para aprender, colaborar e criar produtos digitais mais humanos.**
+---
 
-<div align="center">[ CAMPINAS, SP ] · [ DESIGNING WITH EMPATHY ] · [ MARSALA ENERGY ]</div>
+<div align="center">
+
+**Entre o caos das ideias e a clareza da experiência.**
+
+Aberta a aprender, trocar referências e colaborar em projetos de UX.
+
+✦ pesquisa com curiosidade · design com intenção · personalidade em marsala ✦
+
+<sub>Banner adaptado da <a href="https://github.com/claudiosoaresdev/claudiosoaresdev/tree/feat/header-waves-particles">referência de Claudio Soares</a>.</sub>
+
+</div>
